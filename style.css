@@ -57,6 +57,10 @@ body{
     border-radius: 6px;
     pointer-events: none;
 }
+.blog-card .blog-card-image:hover
+{
+    transform: scale(1.2);
+}
 .blog-card .blog-table 
 {
     padding: 15px 30px;
